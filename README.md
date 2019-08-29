@@ -1,6 +1,6 @@
 # Cyclops
 
-A simple DOS attack tool written in Golang
+A simple DOS attack tool
 
 ### Windows
 
